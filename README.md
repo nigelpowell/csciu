@@ -1,5 +1,6 @@
-# PROGRAM: Hello, World!
 Data segment
-.data # Data declaration section out_string: .asciiz "\nHello, World!\n"
+.data # Data declaration section 
+out_string: .asciiz "\nNigel Powell\n"
 .text
 main:
+
